@@ -2,8 +2,6 @@
 A project that analyzes employee attrition patterns using the IBM HR dataset. The project includes data preprocessing, EDA, model building (Logistic Regression), SHAP value analysis, a Power BI dashboard, and PDF reports with insights and prevention suggestions.
 
 
-# HR Analytics: Predicting Employee Attrition with Machine Learning
-
 ## 📌 Overview
 This project aims to identify the key reasons behind employee attrition and predict future resignations using machine learning models. It also provides actionable insights for HR teams using Power BI dashboards and SHAP explainability.
 
